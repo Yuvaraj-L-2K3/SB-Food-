@@ -30,7 +30,7 @@ const Home = () => {
 
         <div className="home-category-card" onClick={()=>navigate('/category/Breakfast')}>
           <img src="https://www.lacademie.com/wp-content/uploads/2022/03/indian-breakfast-recipes-500x500.jpg" alt="" />
-          <h5>Breakfast</h5>
+          <h5>Break</h5>
         </div>
 
         <div className="home-category-card" onClick={()=>navigate('/category/Biriyani')}>
