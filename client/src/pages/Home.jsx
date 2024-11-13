@@ -55,7 +55,7 @@ const Home = () => {
 
         <div className="home-category-card" onClick={()=>navigate('/category/Burger')}>
           <img src= "https://www.kannammacooks.com/wp-content/uploads/street-style-chicken-rice-recipe-1-3.jpg"/>
-          <h5>Chicken Rice</h5>
+          <h5>Chicken rice</h5>
         </div>
 
         <div className="home-category-card" onClick={()=>navigate('/category/Burger')}>
